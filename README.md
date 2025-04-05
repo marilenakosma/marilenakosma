@@ -21,7 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,cpp,csharp,vue,css,postgres,figma,github,html,java,js,md,mysql,nextjs,nodejs,py,react,vscode,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,git,cpp,sass,cs,dotnet,vue,css,postgres,figma,github,html,java,js,npm,mysql,nextjs,nodejs,py,qt,react,vscode,visualstudio,eclipse,wordpress&perline=14" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=marilenakosma&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marilenakosma&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
