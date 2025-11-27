@@ -26,8 +26,8 @@
 </p>
 </p>        
 
-## My Stats
-![Marilenas's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilenakosma&show_icons=true&theme=bear)
+<!--## My Stats
+<!-- ![Marilenas's GitHub stats](https://github-readme-stats.vercel.app/api?username=marilenakosma&show_icons=true&theme=bear)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marilenakosma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
