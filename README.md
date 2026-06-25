@@ -35,7 +35,7 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 
-<div id="user-content-toc">
+<!--div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Stats</h2></summary>
   </ul>
@@ -47,6 +47,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marilenakosma&theme=onedark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marilenakosma&theme=onedark&utcOffset=3">
 </p>
+<-->
 
 <div id="user-content-toc">
   <ul align="center">
